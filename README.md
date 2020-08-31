@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Latest from my website
+
+<!--START_SECTION:feed-->
+
+<!--END_SECTION:feed-->
