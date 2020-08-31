@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 ### Latest from my website
 
 <!--START_SECTION:feed-->
-
+...
 <!--END_SECTION:feed-->
