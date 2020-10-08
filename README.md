@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 Check out my latest blog posts:
 <!--START_SECTION:feed-->
-* [Kickstart Your Hugo Project With the Hyas Starter](https:&#x2F;&#x2F;henkverlinde.com&#x2F;kickstart-your-hugo-project-with-the-hyas-starter&#x2F;)
+* [Introducing Hyas: Hugo starter helping you build modern websites](https:&#x2F;&#x2F;henkverlinde.com&#x2F;introducing-hyas-hugo-starter-helping-you-build-modern-websites&#x2F;)
 <!--END_SECTION:feed-->
