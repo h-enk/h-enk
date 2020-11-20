@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 
 Check out my latest blog posts:
 <!--START_SECTION:feed-->
+* [Continuous Integration workflow for your Hyas project](https:&#x2F;&#x2F;henkverlinde.com&#x2F;continuous-integration-workflow-for-your-hyas-project&#x2F;)
 * [Introducing Hyas: Hugo starter helping you build modern websites](https:&#x2F;&#x2F;henkverlinde.com&#x2F;introducing-hyas-hugo-starter-helping-you-build-modern-websites&#x2F;)
 <!--END_SECTION:feed-->
