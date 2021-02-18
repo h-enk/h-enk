@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Check out my latest blog posts:
 <!--START_SECTION:feed-->
-* [Master npm with Hugo: managing dependencies](https:&#x2F;&#x2F;henkverlinde.com&#x2F;master-npm-with-hugo-managing-dependencies&#x2F;)
+* [Master npm with Hugo: customizing build scripts](https:&#x2F;&#x2F;henkverlinde.com&#x2F;master-npm-with-hugo-customizing-build-scripts&#x2F;)
 * [Meet Doks: modern documentation theme for Hugo](https:&#x2F;&#x2F;henkverlinde.com&#x2F;meet-doks-modern-documentation-theme-for-hugo&#x2F;)
 * [Continuous Integration workflow for your Hyas project](https:&#x2F;&#x2F;henkverlinde.com&#x2F;continuous-integration-workflow-for-your-hyas-project&#x2F;)
 <!--END_SECTION:feed-->
