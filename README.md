@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 Check out my latest blog posts:
 <!--START_SECTION:feed-->
 * [Self-Hosting Plausible Analytics on DigitalOcean](https:&#x2F;&#x2F;henkverlinde.com&#x2F;self-hosting-plausible-analytics-on-digitalocean&#x2F;)
-* [Master npm with Hugo: customizing build scripts](https:&#x2F;&#x2F;henkverlinde.com&#x2F;master-npm-with-hugo-customizing-build-scripts&#x2F;)
+* [Subresource Integrity (SRI) Generator](https:&#x2F;&#x2F;henkverlinde.com&#x2F;subresource-integrity-sri-generator&#x2F;)
 * [Doks: modern documentation theme for Hugo](https:&#x2F;&#x2F;henkverlinde.com&#x2F;doks-modern-documentation-theme-for-hugo&#x2F;)
 <!--END_SECTION:feed-->
