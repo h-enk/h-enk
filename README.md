@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Check out my latest blog posts:
 <!--START_SECTION:feed-->
-* [Hyas CLI: command line tool for Hyas and Doks](https:&#x2F;&#x2F;henkverlinde.com&#x2F;hyas-cli-command-line-tool-for-hyas-and-doks&#x2F;)
-* [Subresource Integrity (SRI) Generator](https:&#x2F;&#x2F;henkverlinde.com&#x2F;subresource-integrity-sri-generator&#x2F;)
-* [Self-Hosting Plausible Analytics on DigitalOcean](https:&#x2F;&#x2F;henkverlinde.com&#x2F;self-hosting-plausible-analytics-on-digitalocean&#x2F;)
+* [Subresource Integrity Generator](https:&#x2F;&#x2F;henkverlinde.com&#x2F;subresource-integrity-generator&#x2F;)
+* [Self-Hosting Plausible Analytics](https:&#x2F;&#x2F;henkverlinde.com&#x2F;self-hosting-plausible-analytics&#x2F;)
+* [Meet Doks](https:&#x2F;&#x2F;henkverlinde.com&#x2F;meet-doks&#x2F;)
 <!--END_SECTION:feed-->
