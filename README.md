@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Check out my latest blog posts:
+Check out my thoughts and learnings on making products, the Jamstack way:
+
 <!--START_SECTION:feed-->
 * [Subresource Integrity Generator](https:&#x2F;&#x2F;henkverlinde.com&#x2F;subresource-integrity-generator&#x2F;)
 * [Self-Hosting Plausible Analytics](https:&#x2F;&#x2F;henkverlinde.com&#x2F;self-hosting-plausible-analytics&#x2F;)
