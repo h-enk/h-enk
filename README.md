@@ -20,4 +20,6 @@ Check out my latest blog posts:
 * [Subresource Integrity Generator](https:&#x2F;&#x2F;henkverlinde.com&#x2F;subresource-integrity-generator&#x2F;)
 * [Self-Hosting Plausible Analytics](https:&#x2F;&#x2F;henkverlinde.com&#x2F;self-hosting-plausible-analytics&#x2F;)
 * [Meet Doks](https:&#x2F;&#x2F;henkverlinde.com&#x2F;meet-doks&#x2F;)
+* [Customizing build scripts](https:&#x2F;&#x2F;henkverlinde.com&#x2F;customizing-build-scripts&#x2F;)
+* [Managing dependencies](https:&#x2F;&#x2F;henkverlinde.com&#x2F;managing-dependencies&#x2F;)
 <!--END_SECTION:feed-->
