@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Hi, I’m Henk Verlinde, a digital business developer, and the founder and CEO of Ventizo, a digital products company headquartered in the Netherlands.
+
 Check out my thoughts and learnings on making products, the Jamstack way:
 
 <!--START_SECTION:feed-->
