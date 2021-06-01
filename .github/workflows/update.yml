@@ -16,4 +16,4 @@ jobs:
         with:
           feed-url: https://henkverlinde.com/blog/index.xml
           readme-section: feed
-          max: 3
+          max: 5
