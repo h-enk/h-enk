@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hello, I'm Henk! 👋
 
 <!--
 **h-enk/h-enk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Latest Articles
 <!-- feed start -->
 - April 8 — [Email obfuscation: A simple way that works in 2024](https://henkverlinde.com/blog/email-obfuscation-simple-way-works-2024/)
 <!-- feed end -->
