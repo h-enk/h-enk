@@ -1,6 +1,6 @@
 # Hello, I'm Henk 👋
 
-I'm a product developer, entrepreneur, and technical writer — and the creator of Hyas and Doks
+I'm a product developer, entrepreneur, and technical writer — I'm also the creator of Hyas and Doks
 
 <!--
 **h-enk/h-enk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
