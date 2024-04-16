@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Latest writing
+My latest writing:
 
 <!-- feed start -->
 - April 8 — [Email obfuscation: A simple way that works in 2024](https://henkverlinde.com/blog/email-obfuscation-simple-way-works-2024/)
