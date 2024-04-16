@@ -1,6 +1,8 @@
 # Hello, I'm Henk 👋
 
-I'm a product developer, entrepreneur, and technical writer. Are you looking for a great documentation theme? Make sure to check out [Doks](https://getdoks.org/)!
+I'm a product developer, entrepreneur, and technical writer.
+
+Are you looking for a great documentation theme? Make sure to check out [Doks](https://getdoks.org/)!
 
 <!--
 **h-enk/h-enk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
