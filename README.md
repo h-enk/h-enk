@@ -1,6 +1,6 @@
 # Hello, I'm Henk 👋
 
-I'm a product developer, entrepreneur, and technical writer.
+I'm a product developer, entrepreneur, and technical writer. Are you looking for a great documentation theme? Make sure to check out [Doks](https://getdoks.org/)!
 
 <!--
 **h-enk/h-enk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My latest writing:
+## Latest writing
 
 <!-- feed start -->
 - April 8 — [Email obfuscation: A simple way that works in 2024](https://henkverlinde.com/blog/email-obfuscation-simple-way-works-2024/)
