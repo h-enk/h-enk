@@ -1,5 +1,7 @@
 # Hello, I'm Henk 👋
 
+I'm a product developer, entrepreneur, and technical writer — and the creator of @gethyas and Doks
+
 <!--
 **h-enk/h-enk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
