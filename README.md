@@ -1,4 +1,4 @@
-# Hello, I'm Henk! 👋
+# Hello, I'm Henk 👋
 
 <!--
 **h-enk/h-enk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
