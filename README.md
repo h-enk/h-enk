@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 My latest writing:
 
 <!-- feed start -->
-- April 8 — [Email obfuscation: A simple way that works in 2024](https://henkverlinde.com/blog/email-obfuscation-simple-way-works-2024/)
+- April 8 — [Email Obfuscation: A Hugo Shortcode and Astro Component](https://henkverlinde.com/blog/email-obfuscation/)
 <!-- feed end -->
