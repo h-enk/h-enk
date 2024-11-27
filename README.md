@@ -1,6 +1,6 @@
 # Hello, I'm Henk 👋
 
-I'm a product developer, entrepreneur, and technical writer.
+I’m passionate about innovation, driven by a love for simplifying complex challenges and creating practical solutions. As the founder and CEO of Ventizo, I also developed the Thulite web framework and the Doks documentation theme.
 
 Are you looking for a great documentation theme? Make sure to check out [Doks](https://getdoks.org/)!
 
@@ -18,9 +18,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-My latest writing:
-
-<!-- feed start -->
-- April 8 — [Email Obfuscation: A Hugo Shortcode and Astro Component](https://henkverlinde.com/blog/email-obfuscation/)
-<!-- feed end -->
