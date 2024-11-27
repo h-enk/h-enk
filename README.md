@@ -1,6 +1,10 @@
 # Hello, I'm Henk 👋
 
-I’m passionate about innovation, driven by a love for simplifying complex challenges and creating practical solutions. As the founder and CEO of Ventizo, I also developed the Thulite web framework and the Doks documentation theme.
+I'm passionate about innovation, driven by a love for simplifying complex challenges and creating practical solutions. As the founder and CEO of Ventizo, I also developed the Thulite web framework and the Doks documentation theme.
+
+- [Thulite](https://thulite.io/)
+- [Doks](https://getdoks.org/)
+- [Ventizo](https://ventizo.com/)
 
 <!--
 **h-enk/h-enk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
