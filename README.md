@@ -2,8 +2,6 @@
 
 I’m passionate about innovation, driven by a love for simplifying complex challenges and creating practical solutions. As the founder and CEO of Ventizo, I also developed the Thulite web framework and the Doks documentation theme.
 
-Are you looking for a great documentation theme? Make sure to check out [Doks](https://getdoks.org/)!
-
 <!--
 **h-enk/h-enk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
