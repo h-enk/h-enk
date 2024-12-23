@@ -1,6 +1,6 @@
-# Hello, I'm Henk 👋
+# Hello, I'm Henk Verlinde 👋
 
-I'm passionate about innovation, driven by a love for simplifying complex challenges and creating practical solutions. As the founder and CEO of Ventizo, I also developed the Thulite web framework and the Doks documentation theme.
+I have a deep passion for innovation, fueled by a desire to simplify complex problems and develop practical solutions. I am the founder and CEO at Ventizo and developed the Thulite web framework and the Doks documentation theme.
 
 - [Thulite](https://thulite.io/)
 - [Doks](https://getdoks.org/)
