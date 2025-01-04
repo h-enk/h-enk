@@ -6,6 +6,10 @@ I have a deep passion for innovation, fueled by a desire to simplify complex pro
 - [Doks](https://getdoks.org/)
 - [Ventizo](https://ventizo.com/)
 
+## Latest Posts
+<!-- feed start -->
+<!-- feed end -->
+
 <!--
 **h-enk/h-enk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
