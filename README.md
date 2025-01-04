@@ -1,12 +1,8 @@
 # Hello, I'm Henk Verlinde 👋
 
-I have a deep passion for innovation, fueled by a desire to simplify complex problems and develop practical solutions. I am the founder and CEO at Ventizo and developed the Thulite web framework and the Doks documentation theme.
+I have a deep passion for innovation, fueled by a desire to simplify complex problems and develop practical solutions. I am the founder and CEO at [Ventizo](https://ventizo.com/) and developed the [Thulite web framework](https://thulite.io/) and the [Doks documentation theme](https://getdoks.org/).
 
-- [Thulite](https://thulite.io/)
-- [Doks](https://getdoks.org/)
-- [Ventizo](https://ventizo.com/)
-
-## Latest Posts
+Read my latest posts:
 <!-- feed start -->
 - January 4 — [Email Obfuscation: a Simple, Effective Implementation](https://henkverlinde.com/blog/email-obfuscation/)
 - January 4 — [How to Add Links to Starlight's Navbar](https://henkverlinde.com/blog/starlight-navbar-links/)
