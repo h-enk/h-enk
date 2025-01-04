@@ -13,7 +13,7 @@ jobs:
         id: feed
         with:
           file: 'README.md'
-          format: '- ${monthlong} ${day} — [${title}](${url})'
+          format: '- ${monthshort} ${day} — [${title}](${url})'
           timezone: 'Europe/Amsterdam'
           url: |
             https://henkverlinde.com/rss.xml
