@@ -4,8 +4,8 @@ I have a deep passion for innovation, fueled by a desire to simplify complex pro
 
 ## Latest Posts
 <!-- feed start -->
+- Jan 6 - [Email Obfuscation: a Simple, Effective Implementation](https://henkverlinde.com/blog/email-obfuscation/)
 - Jan 4 - [How to Add Links to Starlight's Navbar](https://henkverlinde.com/blog/starlight-navbar-links/)
-- Jan 3 - [Email Obfuscation: a Simple, Effective Implementation](https://henkverlinde.com/blog/email-obfuscation/)
 <!-- feed end -->
 
 <!--
