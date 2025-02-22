@@ -4,6 +4,7 @@ I have a deep passion for innovation, fueled by a desire to simplify complex pro
 
 ## Latest Posts
 <!-- feed start -->
+- Feb 22 - [Better Plausible Stats for Your Thulite Website](https://henkverlinde.com/blog/plausible-thulite/)
 - Jan 6 - [Email Obfuscation: a Simple, Effective Implementation](https://henkverlinde.com/blog/email-obfuscation/)
 - Jan 4 - [How to Add Links to Starlight's Navbar](https://henkverlinde.com/blog/starlight-navbar-links/)
 <!-- feed end -->
