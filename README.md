@@ -4,6 +4,7 @@ I'm the Founder & CEO at Ventizo, where I build open-source tools and digital so
 
 ## Latest Posts
 <!-- feed start -->
+- Dec 19 - [The Modern Developer Workflow: Balancing Speed, Quality, and Scale](https://henkverlinde.com/blog/the-modern-developer-workflow-balancing-speed-quality-and-scale/)
 - Dec 1 - [Why Digital Innovation is More Than Just Technology](https://henkverlinde.com/blog/why-digital-innovation-is-more-than-just-technology/)
 <!-- feed end -->
 
