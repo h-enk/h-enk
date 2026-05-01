@@ -2,10 +2,10 @@
 
 I'm the Founder & CEO at Ventizo, where I build open-source tools and digital solutions that empower developers and organizations. With a background in international banking and an MSc in Economics and Business, I focus on turning ideas into practical, future-ready innovation.
 
+<!--
 ## Latest Posts
+-->
 <!-- feed start -->
-- Dec 19 - [The modern developer workflow: Balancing speed, quality, and scale](https://henkverlinde.com/blog/the-modern-developer-workflow-balancing-speed-quality-and-scale/)
-- Dec 1 - [Why digital innovation is more than just technology](https://henkverlinde.com/blog/why-digital-innovation-is-more-than-just-technology/)
 <!-- feed end -->
 
 <!--
